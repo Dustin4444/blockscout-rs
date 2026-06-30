@@ -14,7 +14,7 @@
     "js-yaml": "^4.1.0",
     "lodash": "^4.17.21",
     "node-fetch": "2",
-    "yaml": "^2.8.0",
+    "yaml": "^2.8.3",
     "yanl": "^0.0.0"
   },
   "scripts": {
