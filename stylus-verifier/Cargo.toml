@@ -34,7 +34,7 @@ semver = { version = "1.0.23" }
 serde = { version = "1" }
 serde_json = { version = "1.0.128" }
 serde_with = { version = "3.9" }
-tar = { version = "0.4.42" }
+tar = { version = "0.4.46" }
 tempfile = { version = "3.12.0" }
 thiserror = { version = "1.0.63" }
 tokio = { version = "1.40.0" }
